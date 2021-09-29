@@ -1,6 +1,8 @@
 # Blogging-site-Home
 A blogging site template - Project work to get well versed in CSS
 
+*DESKTOP ONLY FOR NOW*
+
 
 Hello everyone this design template is a project based on blogging platform
 for now i have created this site for desktop only soon will be completing it for mobile devices \n 

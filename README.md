@@ -5,7 +5,7 @@ A blogging site template - Project work to get well versed in CSS
 
 
 Hello everyone this design template is a project based on blogging platform
-for now i have created this site for desktop only soon will be completing it for mobile devices \n 
+for now i have created this site Using Vanilla CSS will be completing it for mobile devices
 
 the site is created by me to get well verse in CSS and 
 it looks really good 

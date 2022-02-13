@@ -1,7 +1,7 @@
 # Blogging-site-Home
 A blogging site template - Project work to get well versed in CSS
 
-*DESKTOP ONLY FOR NOW*
+--*DESKTOP ONLY FOR NOW*--
 https://kashiwalharsh.github.io/Blogging-site-Pratibimb
 
 
